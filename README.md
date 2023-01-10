@@ -1,7 +1,7 @@
 # Build and Deploy a Modern Next 13 Website With Tailwind CSS
 
 ![Its dravyafolio](./public/dravyabanner.png)
-### [Live Site](https://dravyaheader.netlify.com/)
+### [Live Site](https://alphaheader.netlify.com/)
 
 DeskTop View  
 ![Header](./public/img.png)
